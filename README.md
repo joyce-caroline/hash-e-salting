@@ -66,7 +66,7 @@ Para esse desafio foi desenvolvido um servidor Node.js utilizando o framework Ex
 #### Login e Autenticação do usuário
 
 ```http
-  GET /login
+  POST /login
 ```
 
 - Os dados do corpo da requisição são:
